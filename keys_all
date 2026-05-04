@@ -1,8 +1,9 @@
 vless://ca95c730-7e06-417f-9eab-f40b81ba8798@77.73.131.181:443?type=tcp&encryption=none&security=reality&pbk=_Gxs-57dF4dlYM0YSRo3CTa71wFnVCOEBfFFophETRA&fp=chrome&sni=www.viennapass.de&sid=b68230f6&spx=%2F&flow=xtls-rprx-vision#qwerty-q1
 
 vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@147.45.196.240:8443?type=ws&security=tls&encryption=none&sni=ylnhh.cc.cd&path=/Telegram+@WangCai2&host=ylnhh.cc.cd#DE_147.45.196.240
-vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@85.192.41.169:443?type=ws&security=tls&encryption=none&fp=chrome&sni=ylnhh.cc.cd&path=/Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&host=ylnhh.cc.cd#NL_85.192.41.169
-vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@89.169.53.88:443?type=ws&security=tls&encryption=none&sni=ylnhh.cc.cd&path=/Telegram%2B%40WangCai2&host=ylnhh.cc.cd#DE_89.169.53.88
+vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@85.192.41.169:443?type=ws&security=tls&encryption=none&fp=chrome&sni=ylnhh.cc.cd&path=/Telegram%2B%40WangCai2&host=ylnhh.cc.cd#NL_85.192.41.169
+vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@89.169.53.88:443?encryption=none&security=tls&sni=ylnhh.cc.cd&insecure=0&allowInsecure=0&type=ws&host=ylnhh.cc.cd&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#DE_89.169.53.88
+vless://1569e63a-1eb9-4ba8-9780-8bc739552d23@188.225.43.95:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=randomized&sni=goodcardboard.shop&pbk=rDPZZOBMmBb_mNKPEewzp9Uu6zkGrP7XOVpnRzetXDc&spx=%2F#RU_188.225.43.95
 vless://167fb330-00a3-4e37-858d-a979e61eb818@217.16.28.55:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=5post-gate.x5.ru&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&sid=111111#RU_217.16.28.55
 vless://3ba5aeb7-10f5-401b-9c71-cf10885154c5@93.115.29.16:22230?type=tcp&security=reality&flow=xtls-rprx-vision&sni=deepl.com&pbk=ajNtNrFThLn2_WyWnv1Zkf676_i95nCABb2gX7OlHEI&fp=qq&sid=a9725715bf4c62ff#LT_93.115.29.16
 vless://40759e42-d74b-4470-acc4-a580f264e860@31.31.207.17:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=ios&sni=sun6-21.userapi.com&pbk=ys_UT4W9W93wVqzYsuQ14EYCGf-btJZ6NHyb41GnIxk#RU_31.31.207.17
