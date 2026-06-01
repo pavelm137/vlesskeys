@@ -1,4 +1,4 @@
 vless://cecd0571-f058-4c06-88cc-b057b7b83790@77.73.131.181:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=B-yEBTDZZz1XV4iCdH7ERLst5IIAyz_0StbpWaF49Xc&security=reality&sid=4626&sni=www.viennapass.de&spx=%2FpZeUTlqddVphIkI&type=tcp#qwerty-q1
-hysteria2://879wmqvg3cm2dydl@77.73.131.181:7443?alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&security=tls&sni=www.viennapass.de#asdfgh-q2
+hysteria2://879wmqvg3cm2dydl@77.73.131.181:7443?alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&security=tls&sni=www.viennapass.de&insecure=1#asdfgh-q2
 hysteria2://879wmqvg3cm2dydl@77.73.131.181:7443?alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&security=tls&sni=www.viennapass.de&obfs=salamander&obfs-password=6y949oz3ub8172gi&insecure=1&pinSHA256=f94fab47b115eab958d44e68997be5cc58f7401a131531cbe0e11f56e3084755#asdfgh-q2
 hysteria2://6c8dsp4kxrtd3dxb@77.73.131.181:27187?alpn=h2%2Chttp%2F1.1%2Ch3&fp=chrome&security=tls&sni=dl.google.com&obfs=salamander&obfs-password=dey615t4un01j1mu&insecure=1&pinSHA256=4fcd63b9b6773d933690561e305692a177b0a63e5ddb25c13250c2a0e558d9ab#qazxsw-ttt
