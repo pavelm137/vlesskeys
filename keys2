@@ -1,4 +1,4 @@
 vless://cecd0571-f058-4c06-88cc-b057b7b83790@77.73.131.181:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=E-Uhx2fuxWewxhVUfHsCf-JHzqsEdavhDOlf8fEqaxc&security=reality&sid=86b6&sni=www.intel.com&spx=%2Fd0870d0e825597e&type=tcp#qwerty-q1
 hysteria2://879wmqvg3cm2dydl@77.73.131.181:7443?security=tls&insecure=0&pinSHA256=7faa6ce9072f0120f12f1e0324e1bb8409cb96078390b577bd1f0cee3cba20c3&sni=www.viennapass.de#asdfgh-q2
 hysteria2://6c8dsp4kxrtd3dxb@77.73.131.181:27187?security=tls&insecure=0&pinSHA256=57ed9483173761b2d5a505f1fd9e33b0098bfd922ac0e1b408040252f7d7888b&sni=dl.google.com#qazxsw-ttt
-trojan://n9q49g51qen8fnzs@77.73.131.181:51278?security=none&type=tcp#trojan-5riccrauw4
+trojan://n9q49g51qen8fnzs@77.73.131.181:51278?fp=firefox&pbk=2abMVNJ85eop4sgxssbYNbA3rZUvAbV2sG6xx5QOPnM&security=reality&sid=85&sni=stg-eu-images.shop.samsung.com&spx=%2F91dfbacc2ac7b17&type=tcp#trojan-5riccrauw4
