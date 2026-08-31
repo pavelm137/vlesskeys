@@ -2,6 +2,7 @@ vless://ca95c730-7e06-417f-9eab-f40b81ba8798@77.73.131.181:443?type=tcp&encrypti
 
 vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@147.45.196.240:8443?type=ws&security=tls&encryption=none&sni=ylnhh.cc.cd&path=/Telegram+@WangCai2&host=ylnhh.cc.cd#DE_147.45.196.240
 vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@85.192.41.169:443?type=ws&security=tls&encryption=none&fp=chrome&sni=ylnhh.cc.cd&path=/Telegram%2B%40WangCai2&host=ylnhh.cc.cd#NL_85.192.41.169
+vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@89.169.53.88:443?encryption=none&security=tls&sni=ylnhh.cc.cd&insecure=0&allowInsecure=0&type=ws&host=ylnhh.cc.cd&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#DE_89.169.53.88
 vless://167fb330-00a3-000a-858d-a979e61eb818@89.208.223.111:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=5post-gate.x5.ru&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&sid=111111#RU_89.208.223.111
 vless://167fb330-00a3-028e-858d-a979e61eb818@212.233.97.161:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=5post-gate.x5.ru&pbk=XguLRlc-hWqFhf8-KTxtCE434F6e4Hiqoc5cTBpLxnE&sid=111111#RU_212.233.97.161
 vless://167fb330-00a3-4e37-858d-a979e61eb818@217.16.28.55:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=5post-gate.x5.ru&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&sid=111111#RU_217.16.28.55
