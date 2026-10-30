@@ -2,11 +2,11 @@ vless://ca95c730-7e06-417f-9eab-f40b81ba8798@77.73.131.181:443?type=tcp&encrypti
 
 vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@147.45.196.240:8443?type=ws&security=tls&encryption=none&sni=ylnhh.cc.cd&path=/Telegram+@WangCai2&host=ylnhh.cc.cd#DE_147.45.196.240
 vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@85.192.41.169:443?type=ws&security=tls&encryption=none&fp=chrome&sni=ylnhh.cc.cd&path=/Telegram%2B%40WangCai2&host=ylnhh.cc.cd#NL_85.192.41.169
+vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@89.169.53.88:443?encryption=none&security=tls&sni=ylnhh.cc.cd&insecure=0&allowInsecure=0&type=ws&host=ylnhh.cc.cd&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#DE_89.169.53.88
 vless://167fb330-00a3-000a-858d-a979e61eb818@89.208.223.111:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=5post-gate.x5.ru&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&sid=111111#RU_89.208.223.111
 vless://167fb330-00a3-028e-858d-a979e61eb818@212.233.97.161:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=5post-gate.x5.ru&pbk=XguLRlc-hWqFhf8-KTxtCE434F6e4Hiqoc5cTBpLxnE&sid=111111#RU_212.233.97.161
 vless://167fb330-00a3-4e37-858d-a979e61eb818@217.16.28.55:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=5post-gate.x5.ru&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&sid=111111#RU_217.16.28.55
 vless://2af2ab91-26b9-4029-b54c-770e21c35ea3@95.163.213.86:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=eh.vk.com&pbk=S652oUHvkqKhAFAuQjBL3p9Hmm23QfULzacbM4SYll4&sid=b92ce31e0e4a8792#RU_95.163.213.86
-vless://40759e42-d74b-4470-acc4-a580f264e860@31.31.207.17:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=ios&sni=sun6-21.userapi.com&pbk=ys_UT4W9W93wVqzYsuQ14EYCGf-btJZ6NHyb41GnIxk#RU_31.31.207.17
 vless://40759e42-d74b-4470-acc4-a580f264e860@5.188.141.175:80?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=edge&sni=eh.vk.com&pbk=edWiuF_RgDVRNqKGy1ohiJJWRsL1k973ftok_tooHm8#RU_5.188.141.175
 vless://43e322c8-e044-4625-a560-9bfec45e0eae@150.241.70.34:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yandex.net&sid=6ba85179e30d4fc2#US_150.241.70.34
 vless://616f5b93-e3cb-000a-a5f5-73de41030348@89.208.223.111:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=5post-gate.x5.ru&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&sid=111111#RU_89.208.223.111
